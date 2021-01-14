@@ -6,3 +6,5 @@ first learn github.
 second learn coding.
 
 third apply for job.
+
+Fourth step is learning new technologies.
